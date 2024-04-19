@@ -1,6 +1,7 @@
+# Diabetes Prediction and Analysis Project Workflow
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7183741741865316352/
 ![New Tab - Google Chrome 4_10_2024 1_12_07 PM](https://github.com/Lavan1999/Project4-Diabetes-Prediction/assets/152668558/6ad939b3-9e56-4d84-982a-1c79eb6a8421)
 
-# Diabetes Prediction and Analysis Project Workflow
 # Introduction
 This project aims to predict diabetes and perform comprehensive analysis using machine learning techniques and statistical methods. The workflow includes data exploration, hypothesis testing, correlation analysis, data visualization, preprocessing, model training, evaluation, and web application development.
 
